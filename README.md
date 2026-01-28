@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📝 Project Description
 
@@ -14,13 +13,6 @@ Final project for the **AI for Security** course, focused on analyzing the **IoT
 - Detection of attacks and anomalies using ML algorithms
 - Comparison of different classification and clustering techniques
 - Performance evaluation of models on real-world data
-
-## 👥 Team: CyberCats
-
-- **Gabriella Bertolino**
-- **Guendalina Nardi**
-- **Domenico Pittari**
-- **Sofia Varotto**
 
 ## 📊 Dataset
 
